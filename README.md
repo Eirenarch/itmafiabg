@@ -4,3 +4,4 @@
 1. [Пролог](http://github.com/zahasoft/itmafiabg/blob/master/01.Prolog.md)
 2. [Откровение](http://github.com/zahasoft/itmafiabg/blob/master/02.Revelation.md)
 3. [Шумер - първи стъпки](http://github.com/zahasoft/itmafiabg/blob/master/03.Sumer.First.Steps.md)
+4. [Шумер - последни дни](http://github.com/zahasoft/itmafiabg/blob/master/04.Sumer.Last.Days.md)
