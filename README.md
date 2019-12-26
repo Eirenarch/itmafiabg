@@ -11,8 +11,8 @@
 06. ["Магията" Византия](http://github.com/zahasoft/itmafiabg/blob/master/06.The.Magick.Byzantion.md)
 07. [За военното дело и шуробаджанащината](http://github.com/zahasoft/itmafiabg/blob/master/07.On.Military.Art.And.The.Nepotism.md)
 08. [Византия - бунтът](http://github.com/zahasoft/itmafiabg/blob/master/08.Byzantion.The.Rebellion.md)
-09. [Ананке си играе](http://github.com/zahasoft/itmafiabg/blob/master/09.Ananke.Is.Playing.md) *текуща глава*
-10. [Босовете на Вавилон пристигат в Категат](http://github.com/zahasoft/itmafiabg/blob/master/10.Babylon.Bosses.Arrive.In.Kattegat.md)
+09. [Ананке си играе](http://github.com/zahasoft/itmafiabg/blob/master/09.Ananke.Is.Playing.md)
+10. [Босовете на Вавилон пристигат в Категат](http://github.com/zahasoft/itmafiabg/blob/master/10.Babylon.Bosses.Arrive.In.Kattegat.md) *текуща глава*
 11. [Влад Цепеш или как се създава яничар](http://github.com/zahasoft/itmafiabg/blob/master/11.Vlad.The.Impaler.Or.How.To.Create.Janissary.md)
 12. [Невидимото чудовище Програмистояд](http://github.com/zahasoft/itmafiabg/blob/master/12.The.Invisible.Monster.Programmereater.md)
 13. [Чистилището - първи кръг](http://github.com/zahasoft/itmafiabg/blob/master/13.The.Purgatory.First.Round.md)
