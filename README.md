@@ -15,9 +15,9 @@
 10. [Босовете на Вавилон пристигат в Категат](http://github.com/zahasoft/itmafiabg/blob/master/10.Babylon.Bosses.Arrive.In.Kattegat.md) *текуща глава*
 11. [Влад Цепеш или как се създава яничар](http://github.com/zahasoft/itmafiabg/blob/master/11.Vlad.The.Impaler.Or.How.To.Create.Janissary.md)
 12. [Невидимото чудовище Програмистояд](http://github.com/zahasoft/itmafiabg/blob/master/12.The.Invisible.Monster.Programmereater.md)
-13. [Чистилището - първи кръг](http://github.com/zahasoft/itmafiabg/blob/master/13.The.Purgatory.First.Round.md)
-14. [Чистилището - втори кръг](http://github.com/zahasoft/itmafiabg/blob/master/14.The.Purgatory.Second.Round.md)
-15. [Чистилището - трети кръг](http://github.com/zahasoft/itmafiabg/blob/master/15.The.Purgatory.Third.Round.md)
+13. [Консолидацията - цирково изкуство](http://github.com/zahasoft/itmafiabg/blob/master/13.The.Consolidation.Circus.Art.md)
+14. [Консолидацията - четирамата бандити](http://github.com/zahasoft/itmafiabg/blob/master/14.The.Consolidation.The.Four.Thugs.md)
+15. [Консолидацията - да ти отнемат и последната надежда](http://github.com/zahasoft/itmafiabg/blob/master/15.The.Consolidation.Аnd.Take.Away.Your.Last.Hope.md)
 16. [Парижкото зрелище](http://github.com/zahasoft/itmafiabg/blob/master/16.The.Paris.Spectacle.md)
 17. [За живота и смъртта](http://github.com/zahasoft/itmafiabg/blob/master/17.About.Life.And.Death.md)
 18. [Епилог](http://github.com/zahasoft/itmafiabg/blob/master/18.Epilogue.md)
